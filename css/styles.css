@@ -834,7 +834,7 @@ font-weight: 700;
 	color:#fff;
 }
 #aboutUs p, #aboutUs h2{color: #f4fcfb; line-height:1.3; padding-bottom:10px; font-weight:100;}
-#aboutUs .mainheading{margin-bottom:50px;}
+#aboutUs .mainheading{margin-bottom:10px;}
 #aboutUs .feature {}
 
 #aboutUs .right {
